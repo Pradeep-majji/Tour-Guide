@@ -1,0 +1,65 @@
+.travel-form {
+    margin: 20px;
+  }
+  
+  .travel-form input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    border: 1px solid black;
+  }
+  
+  .travel-form input[type="submit"] {
+    padding: 5px 25px;
+    background-color: #21aaea;
+    color: rgb(251, 252, 252);
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left:2px;
+    font-size: 18px;
+    width:100px
+    
+  }
+  
+  .travel-form .table2 {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  .travel-form .table2 th,
+  .travel-form .table2 td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid rgb(9, 8, 8);
+  }
+  
+  .travel-form .table2 th {
+    background-color: #0db8e8;
+    color: rgb(250, 247, 247);
+  }
+  
+  .travel-form .table2 tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .travel-form .table2 caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+    caption-side: top;
+  }
+  
+  .travel-form table input[type="button"] {
+    padding: 5px 10px;
+    background-color: #14a0d3;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width:80px
+  }
+
+  .table1{
+    margin-left: 150px;
+    margin-top: 100px;
+  }
+  
